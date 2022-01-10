@@ -149,7 +149,7 @@ public class ExtractClassFrame extends JFrame {
     public void start() {
         setText();
         setPro();
-        this.setTitle("extractfiles by floatinglife");
+        this.setTitle("extractfiles by flashylife");
         this.setSize(WIDTH, HEIGHT);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
