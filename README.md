@@ -11,9 +11,8 @@ source_path后的路径+输入路径的每一行
 des_path后的路径+输入路径的每一行
 
 **输出路径如图：**
+![](https://github.com/flashylife/extractfiles/blob/fa8f29e2174f957d4c36d1976764feca49cde229/img/readme/output.PNG)
 
-![](C:\Users\浮生\Desktop\捕获.PNG)
 
 **输入路径如图：**
-
-![](C:\Users\浮生\Desktop\捕获123.PNG)
+![](https://github.com/flashylife/extractfiles/blob/fa8f29e2174f957d4c36d1976764feca49cde229/img/readme/input.PNG)
