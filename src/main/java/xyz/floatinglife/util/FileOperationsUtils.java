@@ -10,7 +10,7 @@ import java.io.IOException;
  * 
  * 文件操作工具类
  * 
- * @author floatinglife
+ * @author flashylife
  *
  */
 public class FileOperationsUtils {

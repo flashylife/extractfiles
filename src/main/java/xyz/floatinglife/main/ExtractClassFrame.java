@@ -22,7 +22,7 @@ import javax.swing.JTextField;
 /**
  * 提取资源界面
  *
- * @author floatinglife
+ * @author flashylife
  */
 public class ExtractClassFrame extends JFrame {
 

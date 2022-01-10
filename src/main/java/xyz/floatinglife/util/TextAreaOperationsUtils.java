@@ -17,7 +17,7 @@ import java.io.PrintWriter;
  * 1.初始化JFrame文本内容
  * 2.将JFrame文本内容持久化到文件中
  *
- * @author floatinglife
+ * @author flashylife
  */
 public class TextAreaOperationsUtils {
     /**

@@ -8,7 +8,7 @@ import xyz.floatinglife.util.TextAreaOperationsUtils;
  *
  * 功能：提取资源服务
  *
- * @author floatinglife
+ * @author flashylife
  *
  */
 public class FileCopyService {
